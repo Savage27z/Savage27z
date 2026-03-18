@@ -27,6 +27,10 @@
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savage27z&layout=compact&theme=tokyonight" />
+</p>
+
 <!--
 **Savage27z/Savage27z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
