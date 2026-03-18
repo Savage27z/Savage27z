@@ -1,4 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=WELCOME+TO+SAVAGE+GITHUB;JUST+PLAYING+WITH+CODES)](https://git.io/typing-svg)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Savage27z)](https://git.io/streak-stats)
 <!--
 **Savage27z/Savage27z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
