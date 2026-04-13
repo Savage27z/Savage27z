@@ -6,7 +6,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=MedievalSharp&size=28&pause=1000&color=C8A45A&center=true&vCenter=true&width=600&lines=⚔+SAVAGE✰;Builder+of+Tools.+Breaker+of+Markets.;A+true+warrior+needs+no+sword." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=MedievalSharp&size=28&pause=1000&color=C8A45A&center=true&vCenter=true&width=600&lines=⚔+SAVAGE✰;Builder+of+Tools.+Breaker+of+Markets.;A+true+warrior+needs+no+sword." alt="" />
 
 <br/>
 
