@@ -53,11 +53,11 @@ class Savage27z:
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savage27z&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=C8A45A&text_color=AAAAAA&langs_count=6" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savage27z&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=C8A45A&text_color=AAAAAA&langs_count=6" alt="" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Savage27z&bg_color=0D0D0D&color=C8A45A&line=C8A45A&point=FF6B35&area=true&area_color=C8A45A&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Savage27z&bg_color=0D0D0D&color=C8A45A&line=C8A45A&point=FF6B35&area=true&area_color=C8A45A&hide_border=true" alt="" />
 
 ---
 
