@@ -6,7 +6,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=MedievalSharp&size=28&pause=1000&color=C8A45A&center=true&vCenter=true&width=600&lines=⚔+SAVAGE✰;Builder+of+Tools.+Breaker+of+Markets.;A+true+warrior+needs+no+sword." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=MedievalSharp&size=28&pause=1000&color=C8A45A&center=true&vCenter=true&width=600&lines=⚔+SAVAGE✰;Builder+of+Tools.+Breaker+of+Markets.;A+true+warrior+needs+no+sword." alt="" />
 
 <br/>
 
@@ -45,11 +45,11 @@ class Savage27z:
 
 ### 📜 THE SAGA — GITHUB CHRONICLES
 
-<img src="https://streak-stats.demolab.com?user=Savage27z&theme=dark&hide_border=true&background=0D0D0D&stroke=C8A45A&ring=C8A45A&fire=FF6B35&currStreakNum=C8A45A&sideNums=C8A45A&currStreakLabel=8B7355&sideLabels=8B7355&dates=555555" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Savage27z&theme=dark&hide_border=true&background=0D0D0D&stroke=C8A45A&ring=C8A45A&fire=FF6B35&currStreakNum=C8A45A&sideNums=C8A45A&currStreakLabel=8B7355&sideLabels=8B7355&dates=555555" alt="" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Savage27z&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=C8A45A&icon_color=C8A45A&text_color=AAAAAA&rank_icon=github" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Savage27z&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=C8A45A&icon_color=C8A45A&text_color=AAAAAA&rank_icon=github" alt="" />
 
 <br/>
 
