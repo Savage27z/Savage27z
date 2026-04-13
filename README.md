@@ -86,7 +86,7 @@ class Savage27z:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Savage27z&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=C8A45A&icon_color=C8A45A&text_color=AAAAAA&rank_icon=github" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Savage27z&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=C8A45A&icon_color=C8A45A&text_color=AAAAAA&rank_icon=github" alt="" />
 
 </div>
 
